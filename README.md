@@ -1,3 +1,3 @@
 # data-analyst-resource
 
-SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science?
+SQL - https://www.coursera.org/specializations/learn-sql-basics-data-science
